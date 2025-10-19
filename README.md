@@ -3,7 +3,7 @@
 ## Deploy
 1. Push repository to GitHub (public).
 2. On Hostinger: hPanel → Websites → Git → Create New Repository.
-   - Repository URL: https://github.com/YOUR/repo.git
+   - Repository URL:[ https://github.com/YOUR/repo.git](https://github.com/Shamanth-shetty/test_host)
    - Branch: main
    - Install path: leave empty to deploy to public_html
 3. After deployment, visit your domain.
